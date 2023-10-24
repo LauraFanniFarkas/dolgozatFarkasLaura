@@ -1,0 +1,7 @@
+H:\programozás 2023 2024\dolgozatFarkasLaura\bin\Debug\dolgozatFarkasLaura.exe.config
+H:\programozás 2023 2024\dolgozatFarkasLaura\bin\Debug\dolgozatFarkasLaura.exe
+H:\programozás 2023 2024\dolgozatFarkasLaura\bin\Debug\dolgozatFarkasLaura.pdb
+H:\programozás 2023 2024\dolgozatFarkasLaura\obj\Debug\dolgozatFarkasLaura.csproj.AssemblyReference.cache
+H:\programozás 2023 2024\dolgozatFarkasLaura\obj\Debug\dolgozatFarkasLaura.csproj.CoreCompileInputs.cache
+H:\programozás 2023 2024\dolgozatFarkasLaura\obj\Debug\dolgozatFarkasLaura.exe
+H:\programozás 2023 2024\dolgozatFarkasLaura\obj\Debug\dolgozatFarkasLaura.pdb
